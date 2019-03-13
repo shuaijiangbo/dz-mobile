@@ -1,0 +1,68 @@
+
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin:0;
+  padding:0;
+  border:0;
+  outline:0;
+  font-size:100%;
+  font-family: '微软雅黑';
+}
+h1,h2,h3,h4,h5,h6,em,i {
+  font-weight: 100;
+  font-style: normal
+}
+ul,ol,li {
+  list-style-type: none
+}
+a {
+  color: #666;
+  text-decoration: none;
+  outline: 0
+}
+a:hover {
+  text-decoration: none;
+}　　
+
+.pull-right{
+  float: right;
+}
+
+
+.van-popup--right{
+  width: 70%;
+  height: 100%;
+}
+.van-nav-bar .van-icon,.van-nav-bar__text{
+  color: #fff;
+}
+.van-nav-bar .van-icon{
+  font-size: 24px;
+}
+.van-nav-bar__title{
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+}
+.van-nav-bar{
+  z-index: 1;
+  background-size: 100% 100%;
+  background-position: center center;
+  height: 1.4rem;
+  line-height: 1.4rem;
+}
+
+.van-popup--right{
+  width: 70%;
+  height: 100%;
+}
